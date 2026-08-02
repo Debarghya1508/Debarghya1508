@@ -23,8 +23,7 @@
 
 
 
-
-**"Code. Learn. Research. Build. Repeat."**
+**Code. Learn. Research. Build. Repeat.**
 
 </td>
 </tr>
