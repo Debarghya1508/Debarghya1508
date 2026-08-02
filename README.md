@@ -1,22 +1,67 @@
+```markdown
 <h1 align="center">Debarghya Das</h1>
-<p align="center">AI/ML Research Enthusiast &amp;· B.Tech CST @ IIEST Shibpur (2024–2028)</p>
+
+<p align="center">
+  AI • ML • Data Science • Research Enthusiast <br>
+  B.Tech in Computer Science & Technology @ IIEST Shibpur (2024–2028)
+</p>
 
 <table>
 <tr>
+
 <td width="50%">
-<img src="assets/ascii.svg" alt="ASCII portrait of Debarghya Das, typed live" width="100%" />
+
+<img src="assets/ascii.svg" alt="ASCII portrait of Debarghya Das" width="100%" />
+
 </td>
+
 <td width="50%" valign="top">
-<img src="assets/stats.svg" alt="Live GitHub stats, refreshed daily by Actions" width="100%" />
 
-<br /><br />
+<img src="assets/stats.svg" alt="GitHub Stats" width="100%" />
 
-**Research Intern, ISI Kolkata** — LLM fine-tuning, RAG pipelines, deep learning, LangGraph
-**Data Analyst Intern, Bluestock Fintech** — Power BI, PostgreSQL, DAX
+<br><br>
 
-`Python` · `C++` · `PyTorch` · `TensorFlow` · `Scikit-learn` · `XGBoost` · `NLP` · `Power BI` · `PostgreSQL` · `Google Earth Engine`
+### 👨‍💻 About Me
 
-📫 rik.deb1508@gmail.com
+- 🎓 B.Tech, Computer Science & Technology, **IIEST Shibpur**
+- 🔬 Passionate about **Artificial Intelligence, Machine Learning & Research**
+- 🤖 Exploring **LLMs, RAG Systems, LangGraph & AI Agents**
+- 🌍 Working with **Satellite Imagery & Google Earth Engine**
+- 📊 Interested in **Data Science, Deep Learning & Computer Vision**
+
+---
+
+### 🛠 Tech Stack
+
+`Python` • `C` • `C++` • `SQL`
+
+`Scikit-learn` • `LightGBM` • `XGBoost` • `CatBoost`
+
+`LangChain` • `LangGraph` • `ChromaDB`
+
+`Pandas` • `NumPy` • `Matplotlib`
+
+`Google Earth Engine` • `Git` • `GitHub`
+
+---
+
+### 📌 Current Focus
+
+- Self-Healing Retrieval-Augmented Generation (RAG)
+- Large Language Models (LLMs)
+- Machine Learning Research
+- AI for Remote Sensing
+- Open Source Contributions
+
+---
+
+📫 **Email:** **rik.deb1508@gmail.com**
+
+</td>
+
+</tr>
+</table>
+```
 
 </td>
 </tr>
