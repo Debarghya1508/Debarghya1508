@@ -14,7 +14,7 @@
 **Research Intern, ISI Kolkata** — LLM fine-tuning, RAG pipelines, deep learning, LangGraph
 **Data Analyst Intern, Bluestock Fintech** — Power BI, PostgreSQL, DAX
 
-`Python` · `C++` · `PyTorch` · `TensorFlow` · `Scikit-learn` · `XGBoost` · `NLP` · `Power BI` · `PostgreSQL` · `Google Earth Engine`
+`Python` • `C` • `C++` • `SQL` `Scikit-learn` • `LightGBM` • `XGBoost` • `CatBoost` `LangChain` • `LangGraph` • `ChromaDB` `Pandas` • `NumPy` • `Matplotlib` `Google Earth Engine` • `Git` • `GitHub`
 
 📫 rik.deb1508@gmail.com
 
