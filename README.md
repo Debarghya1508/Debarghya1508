@@ -1,5 +1,5 @@
 <h1 align="center">Debarghya Das</h1>
-<p align="center">ML Researcher &amp; Data Scientist · B.Tech CST @ IIEST Shibpur (2024–2028)</p>
+<p align="center">AI/ML Research Enthusiast &amp;· B.Tech CST @ IIEST Shibpur (2024–2028)</p>
 
 <table>
 <tr>
@@ -11,7 +11,7 @@
 
 <br /><br />
 
-**Research Intern, ISI Kolkata** — LLM fine-tuning, RAG pipelines, deep learning
+**Research Intern, ISI Kolkata** — LLM fine-tuning, RAG pipelines, deep learning, LangGraph
 **Data Analyst Intern, Bluestock Fintech** — Power BI, PostgreSQL, DAX
 
 `Python` · `C++` · `PyTorch` · `TensorFlow` · `Scikit-learn` · `XGBoost` · `NLP` · `Power BI` · `PostgreSQL` · `Google Earth Engine`
