@@ -21,6 +21,11 @@
 
 📫 www.linkedin.com/in/debarghya-das-297961315
 
+
+
+
+**"Code. Learn. Research. Build. Repeat."**
+
 </td>
 </tr>
 </table>
