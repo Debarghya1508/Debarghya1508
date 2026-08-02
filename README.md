@@ -1,5 +1,5 @@
 <h1 align="center">Debarghya Das</h1>
-<p align="center">AI/ML Research Enthusiast &amp;· B.Tech CST @ IIEST Shibpur (2024–2028)</p>
+<p align="center">AI • ML • Data Science • Research Enthusiast <br> B.Tech in Computer Science & Technology @IIEST Shibpur (2024–2028)</p>
 
 <table>
 <tr>
